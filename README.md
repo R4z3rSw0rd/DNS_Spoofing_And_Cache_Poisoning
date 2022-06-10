@@ -1,2 +1,9 @@
 # DNS_Spoofing_And_Cache_Poisoning
-Python
+
+A simple, yet effective python3 script to perform DNS Spoofing Attack via ARP cache posoning
+
+
+
+                                                   
+                                                   
+ 
